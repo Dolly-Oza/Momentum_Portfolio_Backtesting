@@ -17,8 +17,6 @@ HINDZINC
 
 NIFTY 50 (Benchmark)
 
-
-
 Data Source: Yahoo Finance
 
 Start Date: January 2018
@@ -85,4 +83,5 @@ matplotlib
 
 ## How to Run
 pip install yfinance pandas numpy matplotlib
+
 python rolling_momentum_portfolio.py
